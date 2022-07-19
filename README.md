@@ -1,5 +1,7 @@
 
-
+@settings {
+  font-size: 100;
+}
 
 Hi there, I'm Yash Suthar 👋🏻
 
