@@ -1,13 +1,24 @@
 
-@settings {
-  font-size: 100;
-}
 
-Hi there, I'm Yash Suthar 👋🏻
+# Hi there, I'm Yash Suthar 👋🏻
 
-I'm Full Stack Developer with a serious passion for UI effects, animations
+                                                                                           
+
+I'm Full Stack Developer with a serious passion for UI effects, animations             
 and creating intuitive user experiences with highly scalable backend.
 
 
 🌱 I’m currently learning ThreeJS but also want to explore my 
 potential in Machine Learning and Artificial Intelligence
+
+
+
+
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsuthar010)](https://github.com/yashsuthar010/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsuthar010)](https://github.com/yashsuthar010/github-readme-stats)
+
+
+
+## ------------------------------visitor count: ![Visitor Count](https://profile-counter.glitch.me/yashsuthar010/count.svg)----------------------------------
