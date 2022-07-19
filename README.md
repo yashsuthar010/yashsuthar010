@@ -4,7 +4,7 @@
 
                                                                                            
 
-I'm Full Stack Developer with a serious passion for UI effects, animations             
+I'm Full Stack Developer with a passion for UI effects, animations             
 and creating intuitive user experiences with highly scalable backend.
 
 
