@@ -24,4 +24,4 @@ potential in Machine Learning and Artificial Intelligence
 
 
 
-## --------------------------Total visits : ![Visitor Count](https://profile-counter.glitch.me/yashsuthar010/count.svg)------------------------------
+
