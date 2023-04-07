@@ -14,6 +14,8 @@ and creating intuitive user experiences with highly scalable backend.
 potential in Machine Learning and Artificial Intelligence
 
 
+## Programming Language
+
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
@@ -21,7 +23,6 @@ potential in Machine Learning and Artificial Intelligence
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsuthar010)](https://github.com/yashsuthar010/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsuthar010)](https://github.com/yashsuthar010/github-readme-stats)
 
 
 
