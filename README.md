@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Yash Suthar 👋🏻
+# Hey, I'm Yash Suthar ❄️
 
                                                                                            
 
