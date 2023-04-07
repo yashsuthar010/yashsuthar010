@@ -14,9 +14,9 @@ and creating intuitive user experiences with highly scalable backend.
 potential in Machine Learning and Artificial Intelligence
 
 
-## Programming Language
+## 🦈 Programming Language
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
