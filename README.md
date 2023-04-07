@@ -3,7 +3,7 @@
 # Hey, I'm Yash Suthar ❄️
 
 
-🎨- Portfolio [portfolio](https://yashsuthar.netlify.app/).
+🎨  [portfolio](https://yashsuthar.netlify.app/).
                                                                                            
 
 I'm Full Stack Developer with a passion for UI effects, animations             
