@@ -13,7 +13,7 @@ I'm Full Stack Developer with a passion for UI effects, animations and creating 
 potential in Machine Learning and Artificial Intelligence
 
 
-## 🦈 Programming Language
+## 🦈 Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,python,django,nodejs&perline=3)](https://skillicons.dev)
 
