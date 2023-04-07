@@ -16,7 +16,14 @@ potential in Machine Learning and Artificial Intelligence
 
 ## 🦈 Programming Language
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,python,django,nodejs,html5,css3&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,python,django,nodejs&perline=3)](https://skillicons.dev)
+
+
+## Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,figma,ai,vscode,3&perline=3)](https://skillicons.dev)
+
+
 
 
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsuthar010)](https://github.com/yashsuthar010/github-readme-stats)
