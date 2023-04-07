@@ -2,6 +2,8 @@
 
 # Hey, I'm Yash Suthar ❄️
 
+
+🎨- Portfolio [portfolio](https://yashsuthar.netlify.app/).
                                                                                            
 
 I'm Full Stack Developer with a passion for UI effects, animations             
@@ -10,7 +12,7 @@ and creating intuitive user experiences with highly scalable backend.
 
 🌱 I’m currently learning ThreeJS but also want to explore my 
 potential in Machine Learning and Artificial Intelligence
-### - This is my portfolio [portfolio](https://yashsuthar.netlify.app/).
+
 
 
 
