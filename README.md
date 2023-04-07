@@ -1,6 +1,6 @@
 
 
-# Hey, I'm Yash Suthar ❄️
+# Hey There! I'm Yash Suthar ❄️
 
 
 ## 🎨  [portfolio](https://yashsuthar.netlify.app/).
@@ -14,8 +14,7 @@ and creating intuitive user experiences with highly scalable backend.
 potential in Machine Learning and Artificial Intelligence
 
 
-
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
