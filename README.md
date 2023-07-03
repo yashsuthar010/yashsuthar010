@@ -6,7 +6,7 @@
 
                                                                                            
 
-👋🏼 Hey, I'm Yash Suthar, a final-year BTech student majoring in Computer Science. As a passionate full-stack developer, I enjoy tackling problems and finding creative solutions. My interests extend beyond coding, as I have a keen eye for designing captivating website pages. I'm particularly fascinated by the possibilities offered by the Three.js framework and the exciting realms of machine learning and artificial intelligence.
+👋🏼 Hey, I'm Yash Suthar, a passionate full-stack developer, I enjoy tackling problems and finding creative solutions. My interests extend beyond coding, as I have a keen eye for designing captivating website pages. I'm particularly fascinated by the possibilities offered by the Three.js framework and the exciting realms of machine learning and artificial intelligence.
 
 🧲 In addition to my coding studies, I'm always eager to explore new areas. I've dabbled in Blender to add a touch of 3D artistry to my projects. Gaming is also a source of inspiration for me, providing fresh perspectives and ideas. Additionally, I've ventured into the world of sketching to further nurture my creativity.
 
