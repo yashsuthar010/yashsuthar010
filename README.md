@@ -16,14 +16,14 @@ I'm excited about connecting with like-minded professionals, collaborating on in
 
 ## 🎨  [portfolio](https://yashsuthar.netlify.app/).
 
-## 🦈 Programming Languages
+## 🦈 Programming/Frameworks/Concepts
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,python,django,nodejs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,python,django,next,tailwind,nodejs&perline=3)](https://skillicons.dev)
 
 
 ## 🕸️ Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,figma,ai,vscode,3&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,figma,ai,vscode,postman,3&perline=3)](https://skillicons.dev)
 
 
 
