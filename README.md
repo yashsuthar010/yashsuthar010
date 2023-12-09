@@ -14,7 +14,6 @@ I'm excited about connecting with like-minded professionals, collaborating on in
 
 🔗 Let's create something unique together!"
 
-## 🎨  [portfolio](https://yashsuthar.netlify.app/).
 
 ## 🦈 Programming/Frameworks/Concepts
 
